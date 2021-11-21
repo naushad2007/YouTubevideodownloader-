@@ -74,6 +74,16 @@ function Seo() {
                    </p>
                 </CardContent >
             </Card >
+        
+<Card style={{marginTop:"15px"}}>
+                <CardContent >
+                <h2 style={{textAlign:""}}>Download fastest & easy way</h2>
+                   <p>
+                    Download all video and audio formats conversion. You can easily convert YouTube videos to Mp3, 3Gp, Mp4, WmA, M4A, FlV, Webm and Mo formats, etc.
+                   </p>
+                </CardContent >
+            </Card >
+
             <p>By using our downloader you can easily convert YouTube videos to MP3, MP4, 3GP, WEBM, M4A files... and download them for free - this service works for computers, tablets and mobile devices. The videos are always converted in the highest available quality.</p>
         </div>
     )
