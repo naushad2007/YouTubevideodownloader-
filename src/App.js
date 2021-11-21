@@ -119,12 +119,7 @@ function App() {
             <Download setInputUrl={setUrl} loading={loading} setLoading={setLoading}/>
         </Route>
       </Switch>
-//   <a className={classes.affliate} target="_blank" href={"https://publishers.adsterra.com/referral/YZThaqfRBZ"}>
-//     � Earn money from your website without approval.
-//   </a>
-//   <a className={classes.affliate} style={{marginTop:"7px"}} target="_blank" href={"https://www.fiverr.com/share/A0rxe5"}>
-//     � I can make yt downloader for you.
-//   </a>
+
   <div id="container-262d89e83f48f4f114bffdc40c7395b4"></div>
       <Seo />
     </div>
