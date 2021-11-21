@@ -109,7 +109,7 @@ function App() {
       <h1 style={{marginTop:"0px"}} >Youtube Video Downloader</h1>
       </div>
       <form className={classes.form}   >
-      <TextField  id="outlined-basic" variant="outlined" label="Enter YouTube URL..." type="url" required onChange={handleUrlChange} value={url} />
+      <TextField  id="outlined-basic" variant="outlined" label="Enter YouTube Video Url..." type="url" required onChange={handleUrlChange} value={url} />
       <Button onClick={handleSubmit} variant="contained"  className={classes.Button}>
         Download
       </Button>
@@ -119,12 +119,12 @@ function App() {
             <Download setInputUrl={setUrl} loading={loading} setLoading={setLoading}/>
         </Route>
       </Switch>
-  <a className={classes.affliate} target="_blank" href={"https://publishers.adsterra.com/referral/YZThaqfRBZ"}>
-    💰 Earn money from your website without approval.
-  </a>
-  <a className={classes.affliate} style={{marginTop:"7px"}} target="_blank" href={"https://www.fiverr.com/share/A0rxe5"}>
-    🌐 I can make yt downloader for you.
-  </a>
+//   <a className={classes.affliate} target="_blank" href={"https://publishers.adsterra.com/referral/YZThaqfRBZ"}>
+//     � Earn money from your website without approval.
+//   </a>
+//   <a className={classes.affliate} style={{marginTop:"7px"}} target="_blank" href={"https://www.fiverr.com/share/A0rxe5"}>
+//     � I can make yt downloader for you.
+//   </a>
   <div id="container-262d89e83f48f4f114bffdc40c7395b4"></div>
       <Seo />
     </div>
