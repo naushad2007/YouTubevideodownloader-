@@ -94,6 +94,7 @@ function Seo() {
 
             <p>By using our downloader you can easily convert YouTube videos to MP3, MP4, 3GP, WEBM, M4A files... and download them for free - this service works for computers, tablets and mobile devices. The videos are always converted in the highest available quality.</p>
         </div>
+              ^
     )
 }
 
