@@ -35,10 +35,29 @@ function Seo() {
                 <CardContent >
                 <h2 style={{textAlign:""}}> Bill Gates </h2>
                    <p>
-                    ( “Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is most important.” )
+                    Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is most important.
                    </p>
                 </CardContent >
             </Card >
+<Card style={{marginTop:"15px"}}>
+                <CardContent >
+                <h2 style={{textAlign:""}}>  R. Buckminster Fuller </h2>
+                   <p>
+                    Humanity is acquiring all the right technology for all the wrong reasons.
+                   </p>
+                </CardContent >
+            </Card >
+
+<Card style={{marginTop:"15px"}}>
+                <CardContent >
+                <h2 style={{textAlign:""}}>  Bill Gates Fuller </h2>
+                   <p>
+                    The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency.
+                   </p>
+                </CardContent >
+            </Card >
+
+
             <Card style={{marginTop:"15px"}}>
                 <CardContent >
                 <h2 style={{textAlign:""}}>Best Downloader</h2>
