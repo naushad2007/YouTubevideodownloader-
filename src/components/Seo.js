@@ -30,6 +30,14 @@ function Seo() {
                     Install our app to use it like snapetube, Just click on add to home screen button and we are all set. Now you can use it like snaptube. (click on share button and select our downloader)
                    </p>
                 </CardContent >
+
+<Card style={{marginTop:"15px"}}>
+                <CardContent >
+                <h2 style={{textAlign:""}}> Bill Gates </h2>
+                   <p>
+                    ( “Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is most important.” )
+                   </p>
+                </CardContent >
             </Card >
             <Card style={{marginTop:"15px"}}>
                 <CardContent >
