@@ -30,7 +30,7 @@ function Seo() {
                     Install our app to use it like snapetube, Just click on add to home screen button and we are all set. Now you can use it like snaptube. (click on share button and select our downloader)
                    </p>
                 </CardContent >
-
+                </Card >
 <Card style={{marginTop:"15px"}}>
                 <CardContent >
                 <h2 style={{textAlign:""}}> Bill Gates </h2>
@@ -94,7 +94,7 @@ function Seo() {
 
             <p>By using our downloader you can easily convert YouTube videos to MP3, MP4, 3GP, WEBM, M4A files... and download them for free - this service works for computers, tablets and mobile devices. The videos are always converted in the highest available quality.</p>
         </div>
-              ^
+              
     )
 }
 
